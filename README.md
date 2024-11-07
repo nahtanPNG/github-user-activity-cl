@@ -17,5 +17,3 @@ npm install . -g
 
 github-activity <username>
 ```
-
-Solution for the GitHub User Activity backend challenge from the Roadmap.sh.
